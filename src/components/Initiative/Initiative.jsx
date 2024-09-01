@@ -18,11 +18,11 @@ const Initiative = () => {
                 </div>
                 <div className="In_table">
                     <p className='paragraph'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, nemo!</p><hr />
-                    <p className='paragraph'><img className='svg' src={applicants} alt="" /> <h3>Applicants ( Benificiary)</h3></p><hr />
-                    <p className='paragraph'><img className='svg' src={lender} alt="" /><h3>Lenders and financial Institutions</h3> </p><hr />
-                    <p className='paragraph'><img className='svg' src={document} alt="" /> <h3>Central / State Government Ministries</h3> </p><hr />
-                    <p className='paragraph'><img className='svg' src={nodal} alt="" /> <h3>Nodal Agencies</h3> </p><hr />
-                    <p className='paragraph'><img className='svg' src={facilator} alt="" /> <h3>Facilitators</h3>  </p><hr />
+                    <p className='paragraph'><img className='svg' src={applicants} alt="" /> <h3 className='h3' >Applicants ( Benificiary)</h3></p><hr />
+                    <p className='paragraph'><img className='svg' src={lender} alt="" /><h3 className='h3' >Lenders and financial Institutions</h3> </p><hr />
+                    <p className='paragraph'><img className='svg' src={document} alt="" /> <h3 className='h3' >Central / State Government Ministries</h3> </p><hr />
+                    <p className='paragraph'><img className='svg' src={nodal} alt="" /> <h3 className='h3' >Nodal Agencies</h3> </p><hr />
+                    <p className='paragraph'><img className='svg' src={facilator} alt="" /> <h3 className='h3' >Facilitators</h3>  </p><hr />
 
                 </div>
             </div>

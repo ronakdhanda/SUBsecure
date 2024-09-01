@@ -1,6 +1,8 @@
 import React from "react";
 import "./Card.css";
 import svg from "../../assets/select.svg"
+import Button from 'react-bootstrap/Button';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Card = () => {
   return (
@@ -12,25 +14,34 @@ const Card = () => {
           <p>Select the subsidy you want to choose</p>
         </div>
         <div className="card_body">
+          <h3>e-Kisan Upaj Nidhi</h3>
           <p>Lorem ipsum dolor sit amet.</p>
+          <a href=""><Button>button </Button></a>
+          
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
+          <a href=""><Button>button </Button></a>
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
+          <a href=""><Button>button </Button></a>
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
+          <a href=""><Button>button </Button></a>
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
+          <a href=""><Button>button </Button></a>
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
+          <a href=""><Button>button </Button></a>
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
+          <a href=""><Button>button </Button></a>
         </div>
       </div>
     </div>
