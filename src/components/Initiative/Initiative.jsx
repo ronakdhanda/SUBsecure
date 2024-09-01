@@ -12,12 +12,27 @@ const Initiative = () => {
         <div className="content">
             <div className='In_body'>
                 <div className="In_content ">
-                    <h3>About the Initiative</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur nisi libero provident labore aut, consectetur aspernatur dolorum qui eveniet quia!
-                    </p>
+                    <h2 className='text-5xl py-5'>About the Initiative</h2>
+                    <p className='text-xl text-wrap text-justify'>JanSamarth Portal, an initiative by Government of India, is a unique digital
+portal linking fourteen Credit Linked Government schemes on a single
+platform, for ease of access to all the beneficiaries and related stakeholders. <br /><br />
+
+The core objective of JanSamarth Portal is to promote inclusive growth and
+development of various sectors by guiding and providing them to the right
+type of Government benefits through simple and easy digital processes. The
+portal ensures end-to-end coverage of all the processes and activities of all
+the linked schemes. <br /><br />
+
+The Portal uses cutting-edge technologies and smart analytics to provide
+intuitive guidance to beneficiaries for checking subsidy eligibility and auto
+recommendation system offers best suitable schemes as per Beneficiary's
+requirements and credentials. Advanced technologies automate entire
+lending processes based on digital verifications making the entire process
+simple, speedy and hassle-free.</p>
                 </div>
-                <div className="In_table">
-                    <p className='paragraph'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, nemo!</p><hr />
+                <div className="In_table ">
+                    <p className='paragraph text-xl overflow-hidden text-wrap'>Connects various stakeholders of the financial ecosystem on a single platform
+                    to promote inclusive development and ease of doing business.</p><hr />
                     <p className='paragraph'><img className='svg' src={applicants} alt="" /> <h3 className='h3' >Applicants ( Benificiary)</h3></p><hr />
                     <p className='paragraph'><img className='svg' src={lender} alt="" /><h3 className='h3' >Lenders and financial Institutions</h3> </p><hr />
                     <p className='paragraph'><img className='svg' src={document} alt="" /> <h3 className='h3' >Central / State Government Ministries</h3> </p><hr />
@@ -35,7 +50,12 @@ const Initiative = () => {
                         <h1>Digital Integeration</h1>
                     </div>
                     <div className="d_para">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde explicabo laborum blanditiis ea necessitatibus ipsa provident dicta accusamus labore quam! Aut magni officia expedita totam, non sit sint quibusdam provident possimus esse minima eligendi, perspiciatis pariatur laboriosam excepturi consequuntur nisi consectetur quis quam cupiditate quo voluptate? Delectus repudiandae consequatur corporis ex ad cumque mollitia quia ipsum, nam iure, nulla libero aspernatur explicabo. Tenetur quibusdam eaque harum aperiam, fugiat commodi voluptatem consequatur in enim, inventore quae quia. Consequatur maiores incidunt voluptatum, earum ab quaerat sed sunt ratione beatae, a fuga tenetur exercitationem repudiandae quo laboriosam atque error nihil eum inventore sint.</p>
+                        <p className='text-justify text-xl'>JanSamarth Portal, a one of its kind, is having multiple integrations within the
+platform with UIDAI, CBDT, NSDL, LGD, NeSL etc. These integrations provide a
+backbone of digital access to authenticate data, reducing hassles of Member Lending
+Institutes (MLIs) as well as beneficiaries. The automated rule engine of JanSamarth
+Portal enables beneficiaries to choose from multiple options offered by various MLIs
+onboarded on the Portal.</p>
                     </div>
                 </div>
             </div>

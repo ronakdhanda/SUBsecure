@@ -19,6 +19,7 @@
     padding: 2rem;
     display: flex;
     flex-direction: column;
+    width: 50rem;
 }
 .svg{
     height: 50px;
