@@ -1,0 +1,29 @@
+.grid_container{
+    display: grid;
+    grid-template-columns: repeat( auto-fit,minmax(250px, 0.3fr));
+    gap: 3rem;
+    justify-content: center;
+    padding: 25px;
+}
+.card_main{
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.card_body{
+    height: 300px;
+    text-align: center;
+    border: 1px solid;
+    background-color: white;
+    border-radius: 15px;
+    border-color: white;
+}
+.card_body_1{
+    height: 300px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
