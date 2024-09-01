@@ -5,6 +5,7 @@
     height: 30rem;
     width: 100vw;
     padding: 2rem;
+    overflow:hidden;
 }
 .main-description{
     color: white;
@@ -17,8 +18,10 @@
 .image{
     border: 1px;
     border-radius: 15px;
-    margin: 5rem;
+    overflow: hidden;
+    margin: 2rem;
+    margin-right: 4rem;
     height: 30vh;
-    width:25rem;
+    width:40rem;
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
 }
