@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/SUBsecure/static/css/main.4ea02979.css",
+    "main.js": "/SUBsecure/static/js/main.5ff4920a.js",
+    "static/media/modi2.png": "/SUBsecure/static/media/modi2.25ace03fc46a33c501ed.png",
+    "static/media/image.png": "/SUBsecure/static/media/image.cb9ce5e2524933b49206.png",
+    "static/media/bank4.jpg": "/SUBsecure/static/media/bank4.7b2b186e39c584a5c104.jpg",
+    "static/media/nodal agencies.svg": "/SUBsecure/static/media/nodal agencies.7213b5b59fd3e0a6421ab48ab2f3e7d1.svg",
+    "static/media/bank3.jpg": "/SUBsecure/static/media/bank3.657d4eebb3b873bad3b7.jpg",
+    "static/media/bank6.jpg": "/SUBsecure/static/media/bank6.5d6d57d582e47bae1a20.jpg",
+    "static/media/bank1.jpg": "/SUBsecure/static/media/bank1.35a2c14a8482e8c66202.jpg",
+    "static/media/bank5.jpg": "/SUBsecure/static/media/bank5.7b33d6a69a0a1dc610b2.jpg",
+    "static/media/lenders and financial.svg": "/SUBsecure/static/media/lenders and financial.c9c18e3c8db78aeca82f24b5ed3dafa5.svg",
+    "static/media/bank2.jpg": "/SUBsecure/static/media/bank2.2bd3c438a99465c6112a.jpg",
+    "static/media/applicants.svg": "/SUBsecure/static/media/applicants.077602165f5f9ac3a3bb2bb26d31db74.svg",
+    "static/media/facilators.svg": "/SUBsecure/static/media/facilators.60478ec2dc4197f27a42616e940fe05c.svg",
+    "static/media/document.svg": "/SUBsecure/static/media/document.7cf275ff6124bcda7afacc341302c7ec.svg",
+    "static/media/select.svg": "/SUBsecure/static/media/select.6ed60385ef89662e0715a77864381a25.svg",
+    "static/media/secure.svg": "/SUBsecure/static/media/secure.87677332e75ccd1e68f4ed83b775e130.svg",
+    "static/media/verify.svg": "/SUBsecure/static/media/verify.a949e9b569ae3754e4ffe33604a677e3.svg",
+    "static/media/approval.svg": "/SUBsecure/static/media/approval.88e9d68f8d62c4c93be90fdd0e6bf9a1.svg",
+    "static/media/application.svg": "/SUBsecure/static/media/application.64bd8c83ff84e6f2f8d22ce4fe591f11.svg",
+    "static/media/online.svg": "/SUBsecure/static/media/online.84f5cfff574c910200ac552189598243.svg",
+    "index.html": "/SUBsecure/index.html",
+    "static/media/up-arrow.svg": "/SUBsecure/static/media/up-arrow.cdf9265b39637bf2a07efd6e15cb4dd2.svg",
+    "static/media/down-arrow.svg": "/SUBsecure/static/media/down-arrow.b89a25be1975abf0a5a8886b35b5498f.svg",
+    "main.4ea02979.css.map": "/SUBsecure/static/css/main.4ea02979.css.map",
+    "main.5ff4920a.js.map": "/SUBsecure/static/js/main.5ff4920a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ea02979.css",
+    "static/js/main.5ff4920a.js"
+  ]
+}
