@@ -14,14 +14,26 @@ const Card = () => {
           <p>Select the subsidy you want to choose</p>
         </div>
         <div className="card_body">
-          <h3>e-Kisan Upaj Nidhi</h3>
+          <h5>e-Kisan Upaj Nidhi</h5>
           <p>Lorem ipsum dolor sit amet.</p>
-          <a href=""><Button>button </Button></a>
+          <a href=""><Button className="btn btn-secondary">button </Button></a>
           
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
-          <a href=""><Button>button </Button></a>
+          <a href=""><Button  className="btn btn-secondary">button </Button></a>
+        </div>
+        <div className="card_body">
+          <p>Lorem ipsum dolor sit amet.</p>
+          <a href=""><Button  className="btn btn-secondary">button </Button></a>
+        </div>
+        <div className="card_body">
+          <p>Lorem ipsum dolor sit amet.</p>
+          <a href=""><Button  className="btn btn-secondary">button </Button></a>
+        </div>
+        <div className="card_body">
+          <p>Lorem ipsum dolor sit amet.</p>
+          <a href=""><Button className="btn btn-secondary">button </Button></a>
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
@@ -29,19 +41,7 @@ const Card = () => {
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
-          <a href=""><Button>button </Button></a>
-        </div>
-        <div className="card_body">
-          <p>Lorem ipsum dolor sit amet.</p>
-          <a href=""><Button>button </Button></a>
-        </div>
-        <div className="card_body">
-          <p>Lorem ipsum dolor sit amet.</p>
-          <a href=""><Button>button </Button></a>
-        </div>
-        <div className="card_body">
-          <p>Lorem ipsum dolor sit amet.</p>
-          <a href=""><Button>button </Button></a>
+          <a href=""><Button  className="btn btn-secondary">button </Button></a>
         </div>
       </div>
     </div>
