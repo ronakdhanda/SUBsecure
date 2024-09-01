@@ -37,7 +37,7 @@ const Card = () => {
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
-          <a href=""><Button>button </Button></a>
+          <a href=""><Button className="btn btn-secondary">button </Button></a>
         </div>
         <div className="card_body">
           <p>Lorem ipsum dolor sit amet.</p>
